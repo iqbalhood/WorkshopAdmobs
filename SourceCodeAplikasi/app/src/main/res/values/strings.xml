@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TesSNMPTN</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-2341943193053317~2294915457</string>
+    <string name="banner_home_footer">ca-app-pub-2341943193053317/1528628695</string>
+    <string name="interstitial_full_screen">ca-app-pub-2341943193053317/1031603542</string>
+    <!--<string name="rewarded_video">ca-app-pub-XXXXXXXX~XXXXXXXXXXX</string>-->
+</resources>
